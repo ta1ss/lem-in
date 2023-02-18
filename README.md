@@ -32,7 +32,7 @@ The goal is to bring all ants to end room with as few moves as possible followin
 >3-1
 
 ## How To Run
-1. Clone the repo:
+1. Clone the repo
 
 2. Input the following into the terminal:
  > `go run . <example of your choice.txt>`
