@@ -33,7 +33,7 @@ The goal is to bring all ants to end room with as few moves as possible followin
 
 ## How To Run
 1. Clone the repo:
->`git clone https://01.kood.tech/git/enrisuimets/lem-in.git`
+
 2. Input the following into the terminal:
  > `go run . <example of your choice.txt>`
 
